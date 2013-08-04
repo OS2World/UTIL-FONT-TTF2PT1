@@ -1,0 +1,16 @@
+This archive contains the original source, binaries and the file
+os2build.cmd for rebulding the binaries.
+
+The OS/2 binaries are ttf2pt1.exe and t1asm.exe
+
+For usage instructions see the README.html file.
+
+The binaries have been compiled with GCC, and they require the
+emx 0.9d runtime. If you don't have it, get emxrt.zip from Hobbes.
+
+If you have problems with the OS/2 version, please contact me.
+
+Mikkel C. Simonsen
+mcs@post5.tele.dk
+
+
